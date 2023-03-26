@@ -136,7 +136,7 @@ information.
 
 Finally, we can see the memory usage, of every router after every
 broadcast received. As we can see from Figure 5, memory usage varies
-between 1kB to 3kB.
+between 1MB to 3MB.
 
 ![Memory Usage.](images/Memory.png)
 
